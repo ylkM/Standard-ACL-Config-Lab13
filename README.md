@@ -142,6 +142,4 @@ ping 172.16.1.1      (from PC3)   -> fails
 show access-lists
 ```
 
-## License
 
-MIT - see [LICENSE](LICENSE).
